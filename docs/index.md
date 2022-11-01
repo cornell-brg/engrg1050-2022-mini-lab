@@ -4,7 +4,7 @@ ENGRG 1050: Computer Engineering Mini-Lab
 
  - Author: Christopher Batten
  - Date: October 31, 2022
- - URL: https://cornell-brg.github.io/engrg1050-2022-mini-lab
+ - URL: <https://cornell-brg.github.io/engrg1050-2022-mini-lab>
 
 **Table of Contents**
 
@@ -68,11 +68,11 @@ continuing.
 
  - Particle Argon board
  - LiPo battery
+ - Ultrasonic rangefinder input module
  - LED output module
  - Buzzer output module
- - Ultrasonic rangefinder input module
  - Four-wire cables
- - Enclosure
+ - Enclosure (not shown in photo)
 
 Take a closer look at the Particle Argon board. Notice that there are
 eight white connectors that can be used to connect the input and output
@@ -83,7 +83,7 @@ that the board is connected to the cloud and operating normally.
 We will be using the web-based Particle IDE to program your Particle
 Argon. Go to this link on your laptop:
 
- - https://build.particle.io
+ - <https://build.particle.io>
 
 You should not create a new account. You should login with your group
 username and password. The following figure labels the key icons on the
