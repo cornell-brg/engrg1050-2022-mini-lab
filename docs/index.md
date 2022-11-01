@@ -268,7 +268,7 @@ void setup()
 { }
 
 void loop() {
-  ranger_cm = range_sensor.MeasureInCentimeters();
+  int ranger_cm = range_sensor.MeasureInCentimeters();
 
   if ( ranger_cm < 20 ) {
     Particle.publish( "alarm", "on" );
