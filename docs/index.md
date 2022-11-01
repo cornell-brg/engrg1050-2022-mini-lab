@@ -23,7 +23,8 @@ and software and seeks to balance the tension between application
 requirements and technology constraints. This lab includes four parts
 that should enable you to appreciate how hardware and software come
 together to create a complete Internet-of-Things (IoT) system. The
-following figure illustrates the high-level template such an IoT system.
+following figure illustrates the high-level template for such an IoT
+system.
 
 ![](assets/fig/curie-project-diagram.png)
 
